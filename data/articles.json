@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "id": 3,
+      "titre": "Mon premier article",
+      "contenu": "Contenu de l'article...",
+      "auteur": "Jean Dupont",
+      "categorie": "Tech",
+      "tags": [
+        "nodejs",
+        "api"
+      ],
+      "date_creation": "2026-03-23T12:55:55.570Z",
+      "date_modification": "2026-03-23T12:55:55.570Z"
+    },
+    {
+      "id": 4,
+      "titre": "dfghjk",
+      "contenu": "asdfghjkl;cvbngh",
+      "auteur": "hjkl",
+      "categorie": "kk",
+      "tags": [
+        "jklqwertyuio"
+      ],
+      "date_creation": "2026-03-23T13:04:44.888Z",
+      "date_modification": "2026-03-23T13:04:44.888Z"
+    }
+  ],
+  "nextId": 5
+}
